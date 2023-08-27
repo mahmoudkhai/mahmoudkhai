@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahmoud and I'm an Android Developer from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Mahmoud and I'm an Android Developer  from Egypt</h2>
 
 ###
 
@@ -38,14 +38,12 @@
   <a href="https://www.facebook.com/mahmoud.5airy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href=" wa.link/v4j6nb" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=201008573090&text=Hello%20Mahmoud" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/MahmoudKhai/MahmoudKhai/output/snake.svg" alt="Snake animation" />
 
